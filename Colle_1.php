@@ -20,6 +20,6 @@ function colle($x, $y) {
         echo "\n";
     }
 }
-$x = $argv[1]; 
-$y = $argv[2]; 
+$y = $argv[1]; 
+$x = $argv[2]; 
 colle($x, $y);
